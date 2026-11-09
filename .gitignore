@@ -1,0 +1,7 @@
+build/
+parser
+fuzz_output*/
+*.o
+core
+core.*
+*.zip
