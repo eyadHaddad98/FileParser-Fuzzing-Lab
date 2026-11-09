@@ -5,3 +5,6 @@ fuzz_output*/
 core
 core.*
 *.zip
+
+# CodeQL generated files
+codeql-db/
