@@ -8,3 +8,4 @@ core.*
 
 # CodeQL generated files
 codeql-db/
+codeql-results/
